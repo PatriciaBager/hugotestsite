@@ -1,14 +1,14 @@
 ---
 title: "Om"
 date: 2018-01-29T11:24:25+01:00
-draft: true
+draft: false
 ---
 
 # Om Mig
 
 *Jyde på afveje på Nørrebro*
 
-## Ting jeg kan lide 
+## Ting jeg kan lide
 
 1. Solskin
 2. Smil
@@ -30,4 +30,3 @@ draft: true
 [![foto af Pattie](img/IMG_0957.jpg)](https://en.wikipedia.org/wiki/Hej)
 
 Halli Hallo
-
