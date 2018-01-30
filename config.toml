@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
 
+[params]
+extracssfiles       = [ "/css/override.css" ]
+
 [[menu.main]]
 name               	= "Home"
 weight             	= 1
